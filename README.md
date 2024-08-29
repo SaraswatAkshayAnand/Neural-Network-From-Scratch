@@ -13,5 +13,5 @@ Then, run it with no arguments:
 $ python network.py
 ```
 
-You can also [run this code in your browser](https://repl.it/@vzhou842/An-Introduction-to-Neural-Networks).
+You can also [run this code in your browser](https://colab.research.google.com/drive/14ujopK9PEqXu6SSR14ldGX8RNmxiS6Oz#scrollTo=zYyZM5-4zKtb).
 
